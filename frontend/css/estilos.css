@@ -127,3 +127,6 @@ body {
     width: 100%;
   }
   
+  /* INC465 */
+body { font-family: Helvetica, Arial; }
+header, footer { background-color: #3f94b6; }
